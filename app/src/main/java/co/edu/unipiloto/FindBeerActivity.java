@@ -7,7 +7,7 @@ import android.widget.Spinner;
 import android.widget.TextView;
 
 
-public class FindBeerActivity extends Activity {
+public class MainActivity extends Activity {
 
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
